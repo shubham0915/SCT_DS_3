@@ -96,10 +96,10 @@ This project is part of **Task 3** for my **SkillCraft Technology Internship - D
 ---
 
 ## 👩‍💻 Author
-**Arous**  
+**SHUBHAM**  
 SkillCraft Technology Intern - Data Science  
 📅 Completed: June 21, 2025  
-📧 Contact: [Your Email/LinkedIn]  
+📧 Contact: [shubhamkuya@gmail.com/[LinkedIn](https://www.linkedin.com/in/shubham-kumar-46422128a/)]  
 
 ---
 
